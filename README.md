@@ -6,7 +6,7 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 | CAPTCHA name| CAPTCHA  img| Algorithm used  | Accuracy Obtained |
 | :------------ | :------------: |:---------------:| -----:|
-| JAM CAPTCHA| ![img](https://github.com/Jimut123/CAPTCHA/raw/master/pyfiles/JAM/1%2B7.png)      | kNN | 99.53% |
+| JAM CAPTCHA| <img src="https://github.com/Jimut123/CAPTCHA/raw/master/pyfiles/JAM/1%2B7.png">      | kNN | 99.53% |
 | CNN_c4l_16x16_550 | ![img](https://github.com/Jimut123/CAPTCHA/raw/master/pyfiles/c4l_16x16_550/c4l_ex.png)      | CNN - modified CIFAR 10         |   99.91% |
 | captcha-1L |  ![img](https://github.com/Jimut123/CAPTCHA/raw/master/pyfiles/captcha-1L/2a2aa.png)   | Own CNN model - multilabel classification     |    99.67% |
 | captcha_4_letter | ![img](https://github.com/Jimut123/CAPTCHA/raw/master/pyfiles/captcha_4_letter/c4l.png) | LSTM model - multilabel classification    |   99.87% |
