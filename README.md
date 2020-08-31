@@ -23,10 +23,14 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 ## Documentation
 
 [[Thesis - Deceiving computers in Reverse Turing Test through Deep Learning](https://arxiv.org/abs/2006.11373)] | [[Slides](https://jimut123.github.io/files/JBP_SCRIPTS/JBP_021.pdf)]
+## Lead
+* [Jimut123](https://jimut123.github.io/)
 
 ## Advisor and Acknowledgements 
 
 * [Dripta Mj](http://www2.eng.ox.ac.uk/civil/efm/people/dripta-sarkar)
+* [41x3n](https://github.com/41x3n)
+* [nlACh](https://github.com/nlACh)
 
 ## BibTeX and citations
 
