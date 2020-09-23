@@ -7,8 +7,10 @@
 ***
 
 <p align="center">
+    <img src="https://github.com/pytorch/examples/workflows/Run%20Examples/badge.svg">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-     <img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg">
+    <img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg">
+    <a href="https://doi.org/10.5281/zenodo.4041154"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4041154.svg" alt="DOI"></a>
 </p>
 
 # CAPTCHA 
@@ -45,8 +47,8 @@ We have build many models to solve some of the difficult open sourced CAPTCHAs t
 
 ## Acknowledgements 
 
-* [nlACh](https://github.com/nlACh)
-* [41x3n](https://github.com/41x3n)
+* [nlACh](https://github.com/nlACh) [Help regarding data uploading]
+* [41x3n](https://github.com/41x3n) [Help regarding data uploading]
 
 <details>
 <summary>
